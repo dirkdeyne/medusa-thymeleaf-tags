@@ -1,7 +1,7 @@
 # medusa-thymeleaf-tags
 Thymeleaf custom dialect
 
-POC usage custom Thymeleaf tag ... still Work in progress
+POC usage custom Thymeleaf tag ...Work in progress...
 
 - [hello](http://localhost:8080/hello/Dirk)
 
