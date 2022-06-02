@@ -1,5 +1,5 @@
 # medusa-thymeleaf-tags
-POC Thymeleaf custom dialect
+Thymeleaf custom dialect
 
 POC usage custom Thymeleaf tag ... still Work in progress
 
