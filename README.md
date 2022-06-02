@@ -1,4 +1,16 @@
 # medusa-thymeleaf-tags
 POC Thymeleaf custom dialect
 
-Very basic custom Thymeleaf tag
+POC usage custom Thymeleaf tag ... still Work in progress
+
+- [hello](http://localhost:8080/hello/Dirk)
+
+Given
+```html
+<m:medusa/> Hello, <span m:item="who">World</span>
+```
+
+Result for [localhost:8080/hello/Dirk](http://localhost:8080/hello/Dirk)
+```html
+🦑 Hello, <span m:item="who">Dirk</span>
+```
